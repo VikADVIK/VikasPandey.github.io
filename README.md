@@ -1,6 +1,5 @@
-# VikasPandey.github.io
+# VikashPandey.github.io
 Professional Portfolio of Vikash Pandey | Enterprise Strategy &amp; IT Solutions
-# Vikas Pandey
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/yourusername/yourusername.github.io/main/banner.png" width="100%" alt="Vikas Pandey Banner" />
