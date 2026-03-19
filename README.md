@@ -1,39 +1,56 @@
 # VikasPandey.github.io
 Professional Portfolio of Vikash Pandey | Enterprise Strategy &amp; IT Solutions
 # Vikas Pandey
-### Enterprise Strategy & Solutions Consultant | IT Services & SaaS
-📍 New Delhi, India | 📧 [mgmt_vikas@outlook.com](mailto:mgmt_vikas@outlook.com) | 📞 +91 9569729390
+# 👔 Vikas Pandey
+### **Enterprise Strategy & Solutions Consultant**
+> *Bridging the gap between complex business problems and digital transformation.*
+
+<p align="left">
+  <a href="mailto:mgmt_vikas@outlook.com"><img src="https://img.shields.io/badge/Email-mgmt__vikas%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="tel:+919569729390"><img src="https://img.shields.io/badge/Phone-%2B91--9569729390-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🚀 Professional Summary
-[cite_start]Strategic Consultant with **8+ years of experience** in Enterprise Technology and IT Services[cite: 1, 2]. [cite_start]Expert in aligning complex business problems with digital transformation across the **US, UAE, and India**[cite: 3]. [cite_start]Strong background in High-Tech B2B, GTM strategy, and C-suite stakeholder management[cite: 4].
+## 🚀 Professional Snapshot
+- **8+ Years Experience** across US, UAE, and India markets.
+- **Current Role:** Business Development Manager at **ITMC Systems**.
+- **Specialization:** High-Tech B2B, GTM Strategy, and Cloud Infrastructure (SaaS/IaaS).
 
 ---
 
-## 💼 Current Experience
-### **ITMC Systems Pvt. Ltd.**
-**Business Development Manager – Enterprise IT** | [cite_start]*Nov 2024 – Present* [cite: 8]
-* [cite_start]Generated **$150K+** enterprise pipeline across US/UAE IT Managed Services markets[cite: 8].
-* [cite_start]Built C-level relationships in **BFSI & Telecom**, aligning staffing with transformation goals[cite: 9].
-* [cite_start]Achieved **95% fulfillment** for critical DevOps & Cloud Architect roles[cite: 10].
+## 🛠️ Technology Stack & Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Core Competencies
-* [cite_start]**Consulting:** Structured problem solving, transformation roadmaps, and business cases[cite: 5].
-* [cite_start]**Technology Stack:** Oracle Cloud (OCI), AWS, HubSpot, Salesforce, and ServiceNow[cite: 7].
-* [cite_start]**Industry Expertise:** High-Tech Manufacturing, Cloud (SaaS/IaaS), and IT Managed Services[cite: 6].
+## 💼 Core Impact at ITMC Systems
+- ⚡ **$150K+ Pipeline:** Strategic generation for US/UAE Managed Services.
+- 🤝 **C-Suite Relations:** Partnering with BFSI & Telecom leaders for staffing transformation.
+- ✅ **95% Fulfillment:** Delivering high-tier DevOps and Cloud Architect talent.
 
 ---
 
-## 📈 Key Achievements
-* [cite_start]**Revenue Growth:** Created a **$2M+** qualified SaaS and cloud pipeline through solution alignment[cite: 11].
-* [cite_start]**Efficiency:** Improved Cold-to-Demo conversion to **25%** via ICP optimization[cite: 12].
-* [cite_start]**Cost Savings:** Delivered **$300K** in infrastructure cost savings via AWS/Azure optimization[cite: 15].
+## 📈 Key Career Highlights
+| Achievement | Impact |
+| :--- | :--- |
+| **SaaS Pipeline** | Created **$2M+** in qualified leads through solution alignment. |
+| **Sales Efficiency** | Boosted Cold-to-Demo conversion to **25%** via ICP optimization. |
+| **Cost Savings** | Saved clients **$300K** via AWS/Azure infrastructure optimization. |
 
 ---
 
-## 🎓 Education & Certifications
-* [cite_start]**MBA (Information Technology)**, Swami Vivekanand Subharti University – 2025 [cite: 16]
-* [cite_start]**Certifications:** Oracle OCI Foundations, HubSpot Sales, Google Digital Marketing [cite: 17]
+## 🎓 Education
+- **MBA (Information Technology)** - Swami Vivekanand Subharti University (2025)
+- **Certifications:** Oracle OCI Foundations, HubSpot Sales, Google Digital Marketing
+
+---
+<p align="center">
+  <i>"I believe performance should be measured by impact and responsibility, not just by position or luck."</i>
+</p>
