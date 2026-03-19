@@ -1,56 +1,56 @@
 # VikasPandey.github.io
 Professional Portfolio of Vikash Pandey | Enterprise Strategy &amp; IT Solutions
 # Vikas Pandey
-# 👔 Vikas Pandey
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername.github.io/main/banner.png" width="100%" alt="Vikas Pandey Banner" />
+
+# ⚡ VIKAS PANDEY
 ### **Enterprise Strategy & Solutions Consultant**
-> *Bridging the gap between complex business problems and digital transformation.*
+*The architect of $2M+ SaaS pipelines and $300K+ Cloud Cost Savings.*
 
-<p align="left">
-  <a href="mailto:mgmt_vikas@outlook.com"><img src="https://img.shields.io/badge/Email-mgmt__vikas%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="tel:+919569729390"><img src="https://img.shields.io/badge/Phone-%2B91--9569729390-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-
-## 🚀 Professional Snapshot
-- **8+ Years Experience** across US, UAE, and India markets.
-- **Current Role:** Business Development Manager at **ITMC Systems**.
-- **Specialization:** High-Tech B2B, GTM Strategy, and Cloud Infrastructure (SaaS/IaaS).
+[![OCI Certified](https://img.shields.io/badge/Oracle_Cloud-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
+[![SaaS Specialist](https://img.shields.io/badge/SaaS_Strategy-GTM_Expert-2563EB?style=for-the-badge&logo=salesforce&logoColor=white)](https://yourusername.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 
-## 🛠️ Technology Stack & Expertise
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-</p>
+## 💎 THE CORE VALUE PROPOSITION
+*I don't just sell software; I design the future of your infrastructure.*
+
+</div>
+
+### 🚀 OCI & Cloud Architecture
+- **Infrastructure Specialist:** I specialize in **Oracle Cloud Infrastructure (OCI)**, creating roadmaps that transition legacy enterprises into modern, cloud-native powerhouses.
+- **Cost Optimization:** Delivered **$300,000 in direct savings** for clients by optimizing AWS and Azure cloud spends through technical auditing.
+
+### 📈 SaaS & GTM Strategy
+- **Pipeline Growth:** Generated a **$2M+ qualified pipeline** within 9 months by aligning SaaS products with the specific pain points of C-suite stakeholders.
+- **Conversion Mastery:** Increased Cold-to-Demo rates to **25%** through rigorous ICP (Ideal Customer Profile) optimization and intent-based account research.
 
 ---
 
-## 💼 Core Impact at ITMC Systems
-- ⚡ **$150K+ Pipeline:** Strategic generation for US/UAE Managed Services.
-- 🤝 **C-Suite Relations:** Partnering with BFSI & Telecom leaders for staffing transformation.
-- ✅ **95% Fulfillment:** Delivering high-tier DevOps and Cloud Architect talent.
+### 💼 CURRENT MISSION: ITMC SYSTEMS
+As **Business Development Manager**, I am currently scaling managed services across the **US and UAE** markets:
+- **Strategic Hiring:** Delivering 95% fulfillment for high-stakes DevOps and Cloud Architect roles.
+- **Consulting:** Partnering with **BFSI and Telecom** giants to secure digital transformation talent.
 
 ---
 
-## 📈 Key Career Highlights
-| Achievement | Impact |
+### 🛠️ STRATEGIC TECH STACK
+| Category | Platforms & Tools |
 | :--- | :--- |
-| **SaaS Pipeline** | Created **$2M+** in qualified leads through solution alignment. |
-| **Sales Efficiency** | Boosted Cold-to-Demo conversion to **25%** via ICP optimization. |
-| **Cost Savings** | Saved clients **$300K** via AWS/Azure infrastructure optimization. |
+| **Cloud** | **Oracle Cloud (OCI)**, **AWS**, Azure Optimization |
+| **CRM/SaaS** | **Salesforce**, **HubSpot**, **ServiceNow** |
+| **Strategy** | GTM Benchmarking, ICP Optimization, B2B Sales Ops |
 
 ---
 
-## 🎓 Education
-- **MBA (Information Technology)** - Swami Vivekanand Subharti University (2025)
-- **Certifications:** Oracle OCI Foundations, HubSpot Sales, Google Digital Marketing
+<div align="center">
 
----
-<p align="center">
-  <i>"I believe performance should be measured by impact and responsibility, not just by position or luck."</i>
-</p>
+### 🤝 LET'S BUILD THE FUTURE
+*Performance is measured by responsibility and hard work, not just luck.*
+
+[**📧 Contact for Consulting**](mailto:mgmt_vikas@outlook.com) | [**📄 Download Premium Resume**](https://yourusername.github.io/resume.pdf)
+
+</div>
